@@ -43,14 +43,30 @@ It is compatible with Windows, Linux, macOS, and virtual environments including 
 ✅ Benefits:
 Minimize downtime ⏳
 
-Enhance threat visibility 🔭
+* Enhance threat visibility 🔭
 
-Accelerate response times ⚡
+* Accelerate response times ⚡
 
-Improve compliance 📘
+* Improve compliance 📘
 
-Simplify management 🧩
+* Simplify management 🧩
 
-Boost user confidence 😊
+* Boost user confidence 😊
 
 With ACDNMT, you gain not only control, but accurate and adaptive protection in an increasingly hostile cyber environment. 🛡️💻 It’s not just a tool — it’s your frontline digital guardian. 🚀👁️‍🗨️
+
+
+## How to clonw the repo
+```bash
+git clone https://github.com/Iankulani/Accurate_Cyber_Defense_Network_Managemet_Tool.git
+
+cd Accurate_Cyber_Defense_Network_Managemet_Tool
+
+```
+
+## How to run
+
+```bash
+
+python3 Accurate_Cyber_Defense_Network_Managemet_Tool.py
+```
